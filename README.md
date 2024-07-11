@@ -1,8 +1,7 @@
 ### Hi there, I am Anh (or you can also call me Andrew). Welcome to my GitHub page.
 
 ### GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sir-Apple&theme=transparent&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sir-Apple&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
 ### Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anh-tran-7313631b3) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCrXS4KawiyokRBFLvWjSmFA) 
 <h3 align="left">Languages and Tools:</h3>
