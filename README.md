@@ -1,6 +1,4 @@
-## Hi there 👋 
-### I am Anh (or you can also call me Andrew). 
-### Welcome to my GitHub page.
+## Hi there, I am Anh (or you can also call me Andrew). Welcome to my GitHub page.
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sir-Apple&theme=shadow_green&hide_border=true)
