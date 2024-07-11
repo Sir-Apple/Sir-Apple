@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Anh (or you can also call me Andrew). I'm currently a Game/Web and Software Developer. 
+I'm Anh (or you can also call me Andrew).
 
 
 ## 🌐 Socials:
