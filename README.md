@@ -1,6 +1,6 @@
 ### Hi there, I am Anh (or you can also call me Andrew). Welcome to my GitHub page.
 
-### GitHub Stats:
+### My GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sir-Apple&theme=transparent&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sir-Apple&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 ### Socials:
