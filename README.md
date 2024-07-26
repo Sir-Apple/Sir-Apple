@@ -1,6 +1,10 @@
 ### Hi there, I am Anh (or you can also call me Andrew). Welcome to my GitHub page.</h3>
 
-[![Giphy GIF](https://media.giphy.com/media/06vbLCWUQcDKGFVjPt/giphy.gif)](https://giphy.com/gifs/pudgypenguins-work-grind-grinding-06vbLCWUQcDKGFVjPt)
+<p align="center">
+  <a href="https://giphy.com/gifs/pudgypenguins-work-grind-grinding-06vbLCWUQcDKGFVjPt">
+    <img src="https://media.giphy.com/media/06vbLCWUQcDKGFVjPt/giphy.gif" width="240" height="240" alt="Giphy GIF">
+  </a>
+</p>
 
 ### GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sir-Apple&theme=transparent&hide_border=true)
