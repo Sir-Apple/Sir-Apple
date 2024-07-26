@@ -1,6 +1,8 @@
 ### Hi there, I am Anh (or you can also call me Andrew). Welcome to my GitHub page.</h3>
 
-![AVatar](https://github.com/user-attachments/assets/29631726-db34-4196-b40a-2d802ced88bc)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/29631726-db34-4196-b40a-2d802ced88bc" alt="Avatar">
+</p>
 
 ### GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sir-Apple&theme=transparent&hide_border=true)
